@@ -1,4 +1,9 @@
 # ViaHitbox
+
+### **This fix has been implemented into ViaVersion 2.0.0, so you can just enable 'change-1_9-hitbox' and/or 'change-1_14-hitbox' in your ViaVersion config (where I also added the fix for 1.9-1.13, not just 1.8) :)**
+
+---
+
 As a result of player hitbox changes in the versions 1.9 and 1.14, you will run into this problem when using ViaVersion on a server lower than 1.14.
 
 PvP servers are probably affected the worst: Players will get stuck when being hit whilst standing under a block, 
